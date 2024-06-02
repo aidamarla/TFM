@@ -1,0 +1,2 @@
+calibration_imu:ros-sensor_msgs_ext
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles
